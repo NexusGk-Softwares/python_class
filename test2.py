@@ -1,4 +1,4 @@
-
+            #ATM LOGIC FUNCTION 
 withdrawal_amount =  float(input("Enter the amount you want to withdraw: "))
 total_amount = withdrawal_amount
 if withdrawal_amount > 10000:
